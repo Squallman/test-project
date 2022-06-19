@@ -51,8 +51,7 @@ object Main {
       coordinatesListBroadcast.value.stream().anyMatch {
         case (lat: Double, lon: Double) => calculateDistance(row.getDouble(2), row.getDouble(3), lat, lon) < 50
       }
-    }).show()
-//      .write.parquet(outputPath)
+    }).write.parquet(outputPath)
 
     spark.stop()
   }
