@@ -1,0 +1,26 @@
+[{
+  "Name": "Test poi 1",
+  "Latitude": 49.86394905495406,
+  "Longitude": 24.027110543969545,
+  "Radius": 1.0
+}, {
+  "Name": "Test poi 2",
+  "Latitude": 49.866043676829754,
+  "Longitude": 24.033342793653308,
+  "Radius": 1.0
+}, {
+  "Name": "Test poi 3",
+  "Latitude": 49.89829037844727,
+  "Longitude": 24.091730937701982,
+  "Radius": 1.0
+}, {
+  "Name": "Test poi 4",
+  "Latitude": 49.85043161610851,
+  "Longitude": 23.994458071006285,
+  "Radius": 1.0
+}, {
+  "Name": "Test poi 5",
+  "Latitude": 39.142222,
+  "Longitude": 117.17720659222066,
+  "Radius": 1.0
+}]
